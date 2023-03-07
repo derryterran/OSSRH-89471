@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.terran.pyn;
+package com.terran.pyn;
 
 /**
  * @author derry.liandana
