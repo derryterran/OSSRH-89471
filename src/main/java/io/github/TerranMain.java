@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.terran.pyn;
+package io.github;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutionException;

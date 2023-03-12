@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.terran.pyn;
+package io.github;
 
 /**
  * @author derry.liandana
