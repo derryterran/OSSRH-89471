@@ -1,4 +1,4 @@
-package org.terran.pyn;
+package io.github;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
