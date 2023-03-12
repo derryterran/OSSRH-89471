@@ -1,7 +1,7 @@
 /**
  * 
  */
-package io.github;
+package io.github.derryterran;
 
 /**
  * @author derry.liandana
