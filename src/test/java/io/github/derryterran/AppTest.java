@@ -1,4 +1,4 @@
-package io.github;
+package io.github.derryterran;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
